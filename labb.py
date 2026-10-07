@@ -1,4 +1,4 @@
-print("Hur gammal är du?")
-print("Jag är 30 år")
-print("Hur mår du?")
-print("Hej jag är Emma och jag mår bra")
+print("Hur lång är du?")
+print("Jag är 170 cm lång")
+print("Hur känner du dig?")
+print("Jag är lite krasslig")
