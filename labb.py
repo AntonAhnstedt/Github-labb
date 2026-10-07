@@ -1,1 +1,1 @@
-print("Hej på er, hur står de till?")
+print("Hur gammal är du?")
